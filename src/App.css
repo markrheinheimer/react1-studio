@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.recipePhotoBlock {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+img {
+  height: 200px;
+  width: 400px;
+}
